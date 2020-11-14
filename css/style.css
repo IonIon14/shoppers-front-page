@@ -1,0 +1,262 @@
+
+
+
+
+.search-bar {
+    border-style: none;
+    font-family: inherit;
+    font-weight: inherit;
+    width: 150px;
+    transition-timing-function: ease-in;
+}
+
+.search-bar:focus {
+    width: 300px;
+}
+
+.mynav {
+    padding: 40px;
+    margin: 0 auto;
+}
+
+.badge {
+    padding-left: 9px;
+    padding-right: 9px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+}
+
+.label-warning[href],
+.badge-warning[href] {
+    background-color: #c67605;
+}
+
+#lblCartCount {
+    font-size: 12px;
+    background: mediumpurple;
+    color: #fff;
+    padding: 0 7px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    vertical-align: top;
+    margin-left: -10px;
+    position: relative;
+    top: -4px;
+}
+
+.nav-link .shop-tag {
+    color: mediumpurple;
+    font-family: 'Mukta Mahee', sans-serif;
+}
+.nav-item{
+    font-family: 'Mukta Mahee', sans-serif;
+}
+.menu-bar {
+    border-top: 1px solid lightgray;
+    padding-top: 15px;
+}
+
+body {
+    width: 100%;
+}
+
+.header-container.navbar-menu {
+    margin: 0;
+}
+
+.breadcrumb-item .active {
+    color: mediumpurple;
+}
+.item-table .scrollable-table{
+    overflow-x: auto;
+}
+.item-table{
+    border-collapse: collapse;
+}
+
+.item-list {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.btn-group {
+    margin: 0 7px;
+
+}
+
+.shopping-section {
+
+}
+
+.btn.btn-sm {
+    font-size: 14px !important;
+    padding: 10px 20px !important;
+    height: 45px;
+
+}
+
+.btn.btn-secondary {
+    background-color: #e6e7e9;
+    border-color: #e6e7e9;
+    color: #000;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show > .btn-secondary.dropdown-toggle {
+    color: #fff;
+    background-color: #545b62;
+    border-color: #4e555b;
+}
+
+.card-body .card-title {
+    color: mediumpurple;
+}
+
+.card-price-header {
+    color: mediumpurple;
+}
+
+.list-unstyled a:link {
+    color: mediumpurple;
+
+}
+
+.breadcrumb-item a {
+    color: mediumpurple;
+}
+
+.list-unstyled {
+    margin-top: 20px;
+}
+
+.list-unstyled li {
+    line-height: 2.0;
+}
+
+.categories-section {
+    border-style: solid;
+    border-width: thin;
+    border-color: lightgray;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: mediumpurple;
+}
+
+.size-color {
+    border-style: solid;
+    border-width: thin;
+    border-color: lightgray;
+}
+
+.categories-row {
+    margin-top: 150px;
+
+}
+
+.categories-section-title {
+    position: relative;
+}
+
+.categories-section-title::after {
+    content: "";
+    position: absolute;
+    height: 3px;
+    width: 8%;
+    left: 0;
+    top: -30px;
+    background: mediumpurple;
+    /* or 100px */
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+    font-weight: 900;
+}
+
+.option-flex{
+    margin-right:4px;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+
+.input-group, input.test-value-input {
+    max-width: 140px;
+}
+
+.btn-plus,.btn-minus{
+    outline-color: mediumpurple;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+.btn.btn-primary {
+    font-size: 17px;
+    font-weight: 300;
+    letter-spacing: .2em;
+}
+
+.btn.btn-sm {
+    font-size: 14px !important;
+    padding: 10px 20px !important;
+}
+
+.btn {
+    text-transform: uppercase;
+    position: relative;
+    -webkit-transition: 0.2s all ease-in-out !important;
+    -o-transition: 0.2s all ease-in-out !important;
+    transition: 0.2s all ease-in-out !important;
+    top: 0;
+    letter-spacing: .05em;}
+
+.btn-primary {
+    color: #fff;
+    background-color: #7971ea;
+    border-color: #7971ea;
+}
+.product-image{
+    min-height:185px;
+}
+.container .item-table .image-tag{
+    width: 50px;
+}
+.item-table{
+    margin-top: 100px;
+    overflow-x: auto;
+}
+.coupon-cart-section{
+    margin-top: 100px;
+}
+.col-sm .coupon-button{
+    margin-top:30px;
+}
+footer{
+    border-top-style:solid;
+    border-width: 1px;
+    border-color:lightgray;
+}
+.text-black{
+    font-family: 'Mukta Mahee', sans-serif;
+    color:#7971ea;
+    font-size: 20px;
+}
+.card-body{
+    margin:0;
+    padding:0;
+}
+.card-body .text-black p {margin-bottom:0}
+.card-body .text-muted {margin-top:0}
+
+.checkout-button{
+    display: block;
+    width: 100%;
+}

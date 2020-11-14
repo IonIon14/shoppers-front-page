@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "image": "images/cloth_1.jpg",
+      "title": "Tank Top",
+      "description": "Finding perfect t-shirt",
+      "price": 50,
+      "size": "Small"
+    },
+    {
+      "image": "images/shoe.png",
+      "title": "Corater",
+      "description": "Finding perfect products",
+      "price": 50,
+      "size": "Small"
+    },
+    {
+      "image": "images/cloth_2.jpg",
+      "title": "Polo Shirt",
+      "description": "Finding perfect products",
+      "price": 50,
+      "size": "Large"
+    },
+    {
+      "image": "images/cloth_1.jpg",
+      "title": "Tank Top",
+      "description": "Finding perfect products",
+      "price": 50,
+      "size": "Medium"
+    },
+    {
+      "image": "images/shoe.png",
+      "title": "Corater",
+      "description": "Finding perfect products",
+      "price": 50,
+      "size": "Medium"
+    },
+    {
+      "image":"images/cloth_1.jpg",
+      "title": "Beast T-shirt",
+      "description": "Perfect t-shirt for autumn",
+      "price": 100,
+      "size": "Large"
+    },
+    {
+      "image":"images/cloth_1.jpg",
+      "title": "Beast T-shirt",
+      "description": "Perfect t-shirt for autumn",
+      "price": 100,
+      "size": "Large"
+    },
+    {
+      "image":"images/cloth_1.jpg",
+      "title": "Beast T-shirt",
+      "description": "Perfect t-shirt for autumn",
+      "price": 300,
+      "size": "Small"
+    }
+  ]
+}

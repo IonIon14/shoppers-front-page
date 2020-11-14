@@ -1,0 +1,12 @@
+1)fara svg uri
+2)foloseste font awesome
+3)fara stilizare CSS pe keyword de bootstrap
+4)stilizam bootstrap din clasa creata
+
+
+Enunt Tema:
+
+Sa se afiseze produsele folosind datele venite din session storage si datele hardcodate din template sa fie sterse.
+
+
+Sa se creeze un filtru de produse(small,medium,size)-1 singura selectie cu toggle
